@@ -1,0 +1,15 @@
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\bin\Debug\net6.0\Examples_task13.exe
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\bin\Debug\net6.0\Examples_task13.deps.json
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\bin\Debug\net6.0\Examples_task13.runtimeconfig.json
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\bin\Debug\net6.0\Examples_task13.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\bin\Debug\net6.0\Examples_task13.pdb
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\Examples_task13.csproj.AssemblyReference.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\Examples_task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\Examples_task13.AssemblyInfoInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\Examples_task13.AssemblyInfo.cs
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\Examples_task13.csproj.CoreCompileInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\Examples_task13.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\refint\Examples_task13.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\Examples_task13.pdb
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\Examples_task13.genruntimeconfig.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task13\obj\Debug\net6.0\ref\Examples_task13.dll

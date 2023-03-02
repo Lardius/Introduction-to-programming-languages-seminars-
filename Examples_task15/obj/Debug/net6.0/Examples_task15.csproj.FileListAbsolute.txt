@@ -1,0 +1,15 @@
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\bin\Debug\net6.0\Examples_task15.exe
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\bin\Debug\net6.0\Examples_task15.deps.json
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\bin\Debug\net6.0\Examples_task15.runtimeconfig.json
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\bin\Debug\net6.0\Examples_task15.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\bin\Debug\net6.0\Examples_task15.pdb
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\Examples_task15.csproj.AssemblyReference.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\Examples_task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\Examples_task15.AssemblyInfoInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\Examples_task15.AssemblyInfo.cs
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\Examples_task15.csproj.CoreCompileInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\Examples_task15.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\refint\Examples_task15.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\Examples_task15.pdb
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\Examples_task15.genruntimeconfig.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task15\obj\Debug\net6.0\ref\Examples_task15.dll
