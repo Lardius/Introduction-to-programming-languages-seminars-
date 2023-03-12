@@ -1,0 +1,15 @@
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\bin\Debug\net6.0\Examples_task27.exe
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\bin\Debug\net6.0\Examples_task27.deps.json
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\bin\Debug\net6.0\Examples_task27.runtimeconfig.json
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\bin\Debug\net6.0\Examples_task27.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\bin\Debug\net6.0\Examples_task27.pdb
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\Examples_task27.csproj.AssemblyReference.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\Examples_task27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\Examples_task27.AssemblyInfoInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\Examples_task27.AssemblyInfo.cs
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\Examples_task27.csproj.CoreCompileInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\Examples_task27.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\refint\Examples_task27.dll
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\Examples_task27.pdb
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\Examples_task27.genruntimeconfig.cache
+D:\Training\Introduction to programming languages (seminars)\Seminar_1\Examples_task27\obj\Debug\net6.0\ref\Examples_task27.dll
