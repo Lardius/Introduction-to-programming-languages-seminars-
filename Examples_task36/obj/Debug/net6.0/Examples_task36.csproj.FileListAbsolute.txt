@@ -1,0 +1,15 @@
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\bin\Debug\net6.0\Examples_task36.exe
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\bin\Debug\net6.0\Examples_task36.deps.json
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\bin\Debug\net6.0\Examples_task36.runtimeconfig.json
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\bin\Debug\net6.0\Examples_task36.dll
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\bin\Debug\net6.0\Examples_task36.pdb
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\Examples_task36.csproj.AssemblyReference.cache
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\Examples_task36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\Examples_task36.AssemblyInfoInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\Examples_task36.AssemblyInfo.cs
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\Examples_task36.csproj.CoreCompileInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\Examples_task36.dll
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\refint\Examples_task36.dll
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\Examples_task36.pdb
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\Examples_task36.genruntimeconfig.cache
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Examples_task36\obj\Debug\net6.0\ref\Examples_task36.dll
