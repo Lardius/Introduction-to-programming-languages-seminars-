@@ -1,0 +1,15 @@
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\bin\Debug\net6.0\Game_Life.exe
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\bin\Debug\net6.0\Game_Life.deps.json
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\bin\Debug\net6.0\Game_Life.runtimeconfig.json
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\bin\Debug\net6.0\Game_Life.dll
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\bin\Debug\net6.0\Game_Life.pdb
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\Game_Life.csproj.AssemblyReference.cache
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\Game_Life.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\Game_Life.AssemblyInfoInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\Game_Life.AssemblyInfo.cs
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\Game_Life.csproj.CoreCompileInputs.cache
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\Game_Life.dll
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\refint\Game_Life.dll
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\Game_Life.pdb
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\Game_Life.genruntimeconfig.cache
+D:\Training\Introduction to programming languages (seminars)\Introduction-to-programming-languages-seminars-\Game_Life\obj\Debug\net6.0\ref\Game_Life.dll
